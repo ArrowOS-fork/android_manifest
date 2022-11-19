@@ -37,6 +37,10 @@
            review="https://review.arrowos.net/"
            revision="refs/heads/arrow-13.0" />
 
+<remote  name="fork"
+           fetch="https://github.com/arrow-fork"
+           revision="arrow-13.0" />
+
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r14" />
   <contactinfo bugurl="go/repo-bug" />
 
