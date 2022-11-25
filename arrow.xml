@@ -16,7 +16,7 @@
   </project>
 
   <project path="art" name="android_art" remote="arrow" />
-  <project path="bionic" name="android_bionic" groups="pdk" remote="arrow" />
+  <project path="bionic" name="android_bionic" groups="pdk" remote="fork" />
   <project path="manifest" name="android_manifest" remote="fork" />
 
   <!-- bootable repos -->
