@@ -147,6 +147,9 @@
   <project path="packages/providers/TelephonyProvider" name="android_packages_providers_TelephonyProvider" remote="arrow" />
   <project path="packages/overlays/arrow" name="android_packages_overlays_arrow" remote="fork" />
   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="arrow" />
+  <project path="packages/resources/ThemedIcons" name="android_packages_resources_ThemedIcons" remote="fork">
+    <linkfile src="res" dest="packages/apps/Launcher3/res-icons" />
+  </project>
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="arrow" />
   <project path="packages/services/Telephony" name="android_packages_services_Telephony" remote="arrow" />
 
