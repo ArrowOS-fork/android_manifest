@@ -35,7 +35,7 @@
            revision="refs/heads/arrow-13.0" />
 
 <remote  name="fork"
-           fetch="https://github.com/arrow-fork"
+           fetch="https://github.com/ArrowOS-fork"
            revision="arrow-13.0" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r14" />
