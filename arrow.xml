@@ -46,7 +46,7 @@
   <project path="external/tinyxml" name="android_external_tinyxml" remote="arrow" />
 
   <!-- framework repos -->
-  <project path="frameworks/av" name="android_frameworks_av" remote="arrow" />
+  <project path="frameworks/av" name="android_frameworks_av" remote="fork" />
   <project path="frameworks/base" name="android_frameworks_base" remote="fork" />
   <project path="frameworks/native" name="android_frameworks_native" remote="fork" />
   <project path="frameworks/libs/systemui" name="android_frameworks_libs_systemui" remote="fork" />
